@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\SwagBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:SwagBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\SwagBall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:SwagBall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T13:57:47.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwagBall.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\SwagBall.h",
+              "RelativeDocumentMoniker": "SwagBall.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\SwagBall.h",
+              "RelativeToolTip": "SwagBall.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T21:23:57.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwagBall.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\SwagBall.cpp",
+              "RelativeDocumentMoniker": "SwagBall.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\SwagBall.cpp",
+              "RelativeToolTip": "SwagBall.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T21:24:04.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T20:51:52.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T20:53:50.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T07:47:44.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\practiceISU\\2DOpenWorld\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwJEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T07:47:53.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
