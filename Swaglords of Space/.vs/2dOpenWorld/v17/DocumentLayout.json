@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05490136-2B68-4EB8-9521-62B534209EBF}|2dOpenWorld.vcxproj|solutionrelative:Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T05:11:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T05:05:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T05:06:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Bullet.h",
+              "RelativeDocumentMoniker": "Bullet.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Bullet.h",
+              "RelativeToolTip": "Bullet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T17:14:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Bullet.cpp",
+              "RelativeDocumentMoniker": "Bullet.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Bullet.cpp",
+              "RelativeToolTip": "Bullet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T17:14:47.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:23:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:25:31.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T15:55:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\lapsa\\Desktop\\Game C\u002B\u002B\\Swaglords of Space\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T15:55:28.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

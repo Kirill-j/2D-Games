@@ -1,0 +1,8 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+C:\Users\lapsa\Desktop\Game C++\Swaglords of Space\Enemy.cpp(16,41): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  Game.cpp
+  main.cpp
+  Player.cpp
+  Создание кода...
+  2dOpenWorld.vcxproj -> C:\Users\lapsa\Desktop\Game C++\Swaglords of Space\x64\Debug\2DOpenWorld.exe
